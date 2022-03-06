@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAf3c94daD8951de1884F56065DFF3A8b8c743756",
+  "SCAN_LINK": "https://polygonscan.com/address/0xAf3c94daD8951de1884F56065DFF3A8b8c743756",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NFT PRUEBA3",
+  "SYMBOL": "NFTP3",
+  "MAX_SUPPLY": 954,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nfteamprueba",
+  "SHOW_BACKGROUND": true
+}
